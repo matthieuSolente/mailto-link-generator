@@ -1,3 +1,3 @@
-##Mailto Link Generator
+# Mailto Link Generator
 
 A simple Mailto Link Generator
